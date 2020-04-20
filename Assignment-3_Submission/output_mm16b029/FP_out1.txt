@@ -1,0 +1,5 @@
+Frequency: 307, Item Pairs = [u'ground_beef', u'mineral_water']
+Frequency: 360, Item Pairs = [u'milk', u'mineral_water']
+Frequency: 382, Item Pairs = [u'eggs', u'mineral_water']
+Frequency: 395, Item Pairs = [u'chocolate', u'mineral_water']
+Frequency: 448, Item Pairs = [u'spaghetti', u'mineral_water']

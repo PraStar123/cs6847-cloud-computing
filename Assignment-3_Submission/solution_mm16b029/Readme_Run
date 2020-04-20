@@ -1,0 +1,17 @@
+Place the solution_mm16b029 in the spark home directory. 
+Place the data_mm16b029 at '/' on the hdfs for the code to run 
+
+Requirements:
+pip install pydoop
+
+Run by 
+bin/spark-submit --master local[2] solution_mm16b029/<filename>
+
+<filename> can be:
+ALS_Solution.py
+FPG1.py
+FPG2.py
+
+Ouput can be checked in the same '/data_mm16b029/' hdfs folder
+
+Outputs obtained from run on my pc are given in output_mm16b029 directory in this folder itslef
